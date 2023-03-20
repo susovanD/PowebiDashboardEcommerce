@@ -1,7 +1,12 @@
 # E-Commerce Power BI Dashboard
 This GitHub repository contains a Power BI dashboard visualization for an e-commerce store. The dashboard is designed to provide insights into the sales and profits of the store based on data from two tables: the "customer" table and the "order" table.
 
+![image](https://user-images.githubusercontent.com/32951163/226482010-882ac98c-9120-409e-aab6-ab5562741da9.png)
+
 ## Data Tables
+
+![image](https://user-images.githubusercontent.com/32951163/226482239-62b83f00-7609-4954-86b7-f045c6676301.png)
+
 | Table | Description |
 |---|---|
 | Customer Table | The "customer" table contains details about the customers who have made purchases on the e-commerce store, including their state and city. |
