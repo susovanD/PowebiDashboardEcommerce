@@ -9,27 +9,24 @@ This GitHub repository contains a Power BI dashboard visualization for an e-comm
 
 | Table | Description |
 |---|---|
-| Customer Table | The "customer" table contains details about the customers who have made purchases on the e-commerce store, including their state and city. |
-| Order Table | The "order" table contains details about the orders made by customers, including the order ID, order date, category, sub-category, amount, and profit. |
+| Details Table | The "Details" table contains details about the order, for example order value, average order value, payment mode, category etc. |
+| Order Table | The "order" table contains details about the orders made by customers, including the order ID, order date. |
 
 
 ## Dashboard Visualizations
 The Power BI dashboard includes the following visualizations:
 ![powerbi_AdobeExpress](https://user-images.githubusercontent.com/32951163/226486664-14f903fd-9793-4766-8cc3-a3a795439bc2.gif)
-#### Overall Sales
-This visualization shows the overall sales of the e-commerce store across all categories.
+#### Overall Details
+This visualization shows the overall sales, profit, order count, average order value of the e-commerce store across all categories.
 
 #### Sales by Category
 This visualization shows the sales of the e-commerce store broken down by category, providing insights into which categories are driving the most sales.
 
-#### Sales by Sub-Category
-This visualization shows the sales of the e-commerce store broken down by sub-category, providing insights into which sub-categories are driving the most sales.
+#### Sales by Payment Mode
+This visualization shows the sales of the e-commerce store broken down by payment mode, providing insights into which payment types are preferred by customers.
 
-#### Sales by Payment Type
-This visualization shows the sales of the e-commerce store broken down by payment type, providing insights into which payment types are preferred by customers.
-
-#### Month Wise Profit
-This visualization shows the monthly profit of the e-commerce store over time, providing insights into how profits are changing over time.
+#### Month Wise Profit/Loss
+This visualization shows the monthly profit/loss of the e-commerce store over time, providing insights into how profits are changing over time. It is seen that may June, July and December are loss making months for the store.
 
 #### Top-Selling Products
 This visualization shows the top-selling products on the e-commerce store, providing insights into which products are the most popular among customers.
